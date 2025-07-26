@@ -13,12 +13,14 @@ Each component can be easily copied and used in any React project.
 2. **Create a new React project**  
    Open terminal and run:
    ```bash
-   npx create-react-app my-react-project
    cd my-react-project
+   npm install
+   npm run dev
 
 ## 🔍 Component Previews
 
 ### 🎨 Color Picker
 
-![Color Picker Preview 1](./assets/CP1.png)
-![Color Picker Preview 2](./assets/CP2.png)
+<img src="./assets/CP1.png" alt="Color Picker Preview 1" width="200"/>
+<img src="./assets/CP2.png" alt="Color Picker Preview 2" width="200"/>
+
