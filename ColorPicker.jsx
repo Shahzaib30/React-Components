@@ -42,11 +42,13 @@ function ColorPicker(){
                         marginBottom:20,
                         }}>Color Picker</h1>
             <div className="color-picker" style={{ 
-                backgroundColor: color,
-                 padding:"50px 20px 50px 20px" ,
-                  marginBottom:20,
+                   backgroundColor: color,
+                   padding:"50px 20px 50px 20px" ,
+                   marginBottom:20,
                    marginTop:10,
-                   borderRadius:15}}> 
+                   borderRadius:15,
+                   boxShadow: "0px 4px 8px rgba(0, 0, 0, 0.2)"
+                    }}> 
                 <p style={{
                     color: getTextColor(color),
                 }}>Selected Color: {color}</p>
