@@ -1,12 +1,17 @@
-To run these component these are steps:
-1. Install Node Lts Version from nodejs.org => Install it
-2. Create a Directory of your project like my-react-project 
-3. Right click and go to terminal in this Folder
-4. Write: 
-cd my-react-project  
-npm install //this will install modules
-npm run dev
+# React Components Collection
 
-5. Paste any of these component file into src folder and regresh
-6. React app will be live....
-        
+This repository contains reusable and customizable React components.  
+Each component can be easily copied and used in any React project.
+
+---
+
+## 🛠 How to Run These Components
+
+1. **Install Node.js (LTS version)**  
+   Download and install from: [https://nodejs.org](https://nodejs.org)
+
+2. **Create a new React project**  
+   Open terminal and run:
+   ```bash
+   npx create-react-app my-react-project
+   cd my-react-project
