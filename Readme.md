@@ -15,3 +15,10 @@ Each component can be easily copied and used in any React project.
    ```bash
    npx create-react-app my-react-project
    cd my-react-project
+
+## 🔍 Component Previews
+
+### 🎨 Color Picker
+
+![Color Picker Preview 1](./assets/CP1.png)
+![Color Picker Preview 2](./assets/CP2.png)
